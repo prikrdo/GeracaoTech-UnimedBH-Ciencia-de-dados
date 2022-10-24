@@ -23,13 +23,13 @@ Neste desafio, foi proposto a realização da criação do Script SQL para cria�
 
 **Refinamento realizado nas tabelas**
 
-- [ ] Adicionado parâmetro (if not exists) na criação do database para que não seja criado em duplicidade caso já exista;
-- [ ] Adicionado campo extras na tabela de cliente;
-- [ ] Unificado o campo nome na tabela cliente;
-- [ ] Adicionado o valor na tabela produto;
-- [ ] Criado a tabela "pagamento" para guardar os dados de pagamento dos clientes;
-- [ ] Adicionado campo de quantidade na tabela "produtoFornecedor"  para visualizar a quantidade de produtos cada fornecedor possui;
-- [ ] Adicionado o comando "on update cascade" nas tabelas que possuem Foreign key, para que em caso de updates, as atualizações aconteçam em "cascata";
+- [v] Adicionado parâmetro (if not exists) na criação do database para que não seja criado em duplicidade caso já exista;
+- [v] Adicionado campo extras na tabela de cliente;
+- [v] Unificado o campo nome na tabela cliente;
+- [v] Adicionado o valor na tabela produto;
+- [v] Criado a tabela "pagamento" para guardar os dados de pagamento dos clientes;
+- [v] Adicionado campo de quantidade na tabela "produtoFornecedor"  para visualizar a quantidade de produtos cada fornecedor possui;
+- [v] Adicionado o comando "on update cascade" nas tabelas que possuem Foreign key, para que em caso de updates, as atualizações aconteçam em "cascata";
 
 
 
